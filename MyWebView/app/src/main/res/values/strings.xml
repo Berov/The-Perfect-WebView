@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My WebView</string>
+    <string name="no_connection">There is no internet.\nPlease check your connection!</string>
+    <string name="refresh">Refresh</string>
+    <string name="about">Something about\.\.\.</string>
+
+    <string name="BASE_URL" translatable="false">http://x-mobilebg.com</string>
+    <string name="REQUEST_METHOD" translatable="false">GET</string>
+</resources>
